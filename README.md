@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently studying ...Bca course
 - 📫 How to reach me ... abhinavsharma9498@gmail.com
-- 😄 Pronouns: ...--He
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...The First "Computer Bug"
 While we use the term "bug" to describe coding errors today, the term was cemented in history by a literal insect.
 The Event: In 1947, Grace Hopper and her team were working on the Harvard Mark II computer. The system suddenly failed.
